@@ -1,67 +1,67 @@
-matricula\tnome\tnota1\tnota2
-1\tAlan Oliveira Dias\t10\t
-2\tAlexandre da Silva\t3\t
-3\tAmanda Cristina\t3\t
-4\tAnderson Santana\t6\t
-6\tAntonio Luiz\t0\t
-7\tArlon Rodrigues\t7\t5
-8\tBeatriz Fonseca\t0\t
-9\tBruna da Silva\t7\t
-10\tBruno Santos\t10\t
-11\tBruno Rodrigues\t2\t
-12\tCaroline de Lima\t1\t5
-13\tCristiano Augusto\t4\t
-14\tCibele de Souza Teixeira\t7\t5
-15\tCleber Batista\t4\t5
-16\tCleber do Amaral\t10\t
-17\tCleiton Antonio\t9\t
-18\tDaniel Corrêa\t6\t
-21\tDiane Ferreira\t8\t5
-22\tDiego Barbosa\t0\t
-23\tDiego Rafael\t3\t
-24\tDiogo Carlos\t8\t
-25\tDiogo dos Santos\t6\t5
-26\tDouglas de Lima\t5\t
-27\tEduardo Cardoso\t1\t
-28\tEduardo dos Santos\t5\t
-29\tEduardo Fonseca\t1\t
-30\tEricksson de Souza\t2\t5
-31\tErica Cristine\t6\t
-32\tFabio Almeida\t8\t5
-33\tFabio Furtado\t6\t
-34\tFernanda Ferreira\t2\t
-35\tFlavio Afonso\t7\t5
-36\tFranciela de Almeida\t2\t
-37\tFrancielle Cristina\t7\t
-38\tFrancisco da Costa\t3\t
-39\tGabriel Carlos\t9\t5
-40\tGabriel de Freitas\t0\t
-41\tGabriel Dias\t6\t
-42\tGabriel Franco\t4\t5
-44\tGabriel Rodrigues\t5\t5
-45\tGeovani Moraes\t9\t5
-46\tGiovane Carvalho\t6\t
-47\tGiovanna de Almeida\t8\t5
-48\tGuilherme Neto\t8\t5
-49\tGuilherme Luis\t6\t
-50\tGuilherme Roberto\t5\t
-51\tGustavo Anderson\t7\t
-52\tHenrique Santos de Souza\t5\t5
-53\tIsaias Ribeiro\t8\t
-54\tJonatan Paulo\t8\t5
-55\tJordan Ribas\t9\t
-56\tJulia Carvalho\t10\t
-57\tKaren de Lima\t3\t
-58\tKathelin Ribeiro\t6\t5
-59\tLucas Martins\t8\t4
-60\tMaria Eduarda\t8\t
-61\tMichael da Costa\t2\t
-62\tNathália de Lima\t8\t5
-63\tPedro Henrique\t5\t
-64\tPietro Rodrigues\t1\t
-65\tRafael de Oliveira\t8\t5
-66\tRafael Ribeiro\t6\t
-67\tRenan de Souza\t2\t
-68\tRenan Alves Santos\t1\t
-69\tTiago Carneiro\t5\t5
-70\tWagner Leonardo\t9\t5
+matricula/ nome /nota
+1	Alan Oliveira Dias,	10	
+2	Alexandre da Silva,	3	
+3	Amanda Cristina,	3	
+4	Anderson Santana,6	
+6	Antonio Luiz,	0	
+7	Arlon Rodrigues,	7	5
+8	Beatriz Fonseca,	0	
+9	Bruna da Silva,	7	
+10	Bruno Santos,	10	
+11	Bruno Rodrigues,	2	
+12	Caroline de Lima,	1	5
+13	Cristiano Augusto,	4	
+14	Cibele de Souza Teixeira,	7	5
+15	Cleber Batista,	4	5
+16	Cleber do Amaral,	10	
+17	Cleiton Antonio, 	9	
+18	Daniel Corrêa,  	6	
+21	Diane Ferreira,	8	5
+22	Diego Barbosa,	0	
+23	Diego Rafael,	3	
+24	Diogo Carlos,	8	
+25	Diogo dos Santos,	6	5
+26	Douglas de Lima,	5	
+27	Eduardo Cardoso,	1	
+28	Eduardo dos Santos,	5	
+29	Eduardo Fonseca,	1	
+30	Ericksson de Souza,	2	5
+31	Erica Cristine,	6	
+32	Fabio Almeida,	8	5
+33	Fabio Furtado,	6	
+34	Fernanda Ferreira,	2	
+35	Flavio Afonso,	7	5
+36	Franciela de Almeida,	2	
+37	Francielle Cristina,	7	
+38	Francisco da Costa,	3	
+39	Gabriel Carlos,	9	5
+40	Gabriel de Freitas,	0	
+41	Gabriel Dias,	6	
+42	Gabriel Franco,	4	5
+44	Gabriel Rodrigues,	5	5
+45	Geovani Moraes,	9	5
+46	Giovane Carvalho,	6	
+47	Giovanna de Almeida, 	8	5
+48	Guilherme Neto,	8	5
+49	Guilherme Luis,	6	
+50	Guilherme Roberto,	5	
+51	Gustavo Anderson,	7	
+52	Henrique Santos de Souza,	5	5
+53	Isaias Ribeiro,	8	
+54	Jonatan Paulo,	8	5
+55	Jordan Ribas,	9	
+56	Julia Carvalho,	10	
+57	Karen de Lima,	3	
+58	Kathelin Ribeiro,	6	5
+59	Lucas Martins,	8	4
+60	Maria Eduarda,	8	
+61	Michael da Costa,	2	
+62	Nathália de Lima,	8	5
+63	Pedro Henrique,	5	
+64	Pietro Rodrigues,	1	
+65	Rafael de Oliveira,	8	5
+66	Rafael Ribeiro,	6	
+67	Renan de Souza,	2	
+68	Renan Alves Santos,	1	
+69	Tiago Carneiro,	5	5
+70	Wagner Leonardo, 	9	5

@@ -4,14 +4,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class LeituraArquivo {
     public static List<Aluno> lerArquivo(String caminhoArquivo) {
         List<Aluno> listaDeAlunos = new ArrayList<>();
 
         try (BufferedReader br = new BufferedReader(new FileReader(caminhoArquivo))) {
+            System.out.println("Lendo arquivo: " + caminhoArquivo);
             String linha;
             while ((linha = br.readLine()) != null) {
+                System.out.println("Lendo linha: " + linha); // Adicionado para debug
                 String[] dados = linha.split("\t");
                 if (dados.length >= 3) {
                     String matricula = dados[0];
@@ -23,6 +24,7 @@ public class LeituraArquivo {
                     listaDeAlunos.add(aluno);
                 }
             }
+            System.out.println("Total de alunos lidos: " + listaDeAlunos.size());
         } catch (IOException e) {
             e.printStackTrace();
         }

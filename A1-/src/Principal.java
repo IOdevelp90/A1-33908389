@@ -1,15 +1,11 @@
-import java.util.List; // Importação para List
-import java.util.ArrayList; // Importação para ArrayList
+import java.util.List;
 
 public class Principal {
     public static void main(String[] args) {
-        // Verifique o caminho correto para o arquivo CSV
-        String caminhoArquivo = "alunos.csv";
+        // Defina o caminho absoluto para o arquivo CSV
+        String caminhoArquivo = "C:\\Users\\emanu\\OneDrive\\Área de Trabalho\\A1-33908389\\A1-\\src\\alunos.csv"; // Ajuste conforme o seu sistema
 
-        // Certifique-se de que LeituraArquivo está no mesmo pacote ou importe corretamente
         List<Aluno> alunos = LeituraArquivo.lerArquivo(caminhoArquivo);
-
-        // Certifique-se de que ProcessamentoDados está no mesmo pacote ou importe corretamente
         ProcessamentoDados.processarDados(alunos);
     }
 }
