@@ -1,3 +1,4 @@
+// Certifique-se de que o nome do arquivo é Aluno.java
 public class Aluno {
     private String matricula;
     private String nome;
